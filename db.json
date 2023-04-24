@@ -1,13 +1,13 @@
 {
     "fournisseurs": [
       {
-        "idFrns": 1,
+        "id": 1,
         "nomFrns": "Justina",
         "telFrns": "0335566788",
         "adrsFrns": "talatamaty"
       },
       {
-        "idFrns": 2,
+        "id": 2,
         "nomFrns": "Julie",
         "telFrns": "0346677600",
         "adrsFrns": "ihosy"
@@ -17,14 +17,14 @@
 
     "produits": [
       {
-        "idProd": 1,
+        "id": 1,
         "design": "riz",
         "qte": 100 ,
         "pu": 100000,
         "frns": "Julie"
       },
       {
-        "idProd": 2,
+        "id": 2,
         "design": "makalioka",
         "qte": 100 ,
         "pu": 100000,
