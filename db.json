@@ -1,5 +1,5 @@
 {
-    "fournisseur": [
+    "fournisseurs": [
       {
         "idFrns": 1,
         "nomFrns": "Justina",
@@ -15,7 +15,7 @@
       
     ] ,
 
-    "Produit": [
+    "produits": [
       {
         "idProd": 1,
         "design": "riz",
